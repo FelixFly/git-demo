@@ -8,3 +8,6 @@
 - `--global`
 - `--local`
 > --list -l 显示列表信息
+
+### 日志命令 git log
+	
