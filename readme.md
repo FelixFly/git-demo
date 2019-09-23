@@ -7,3 +7,4 @@
 - `--system`
 - `--global`
 - `--local`
+> --list -l 显示列表信息
