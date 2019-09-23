@@ -5,3 +5,4 @@
 ### 配置命令
 
 > git config
+> --list -l 显示列表信息
