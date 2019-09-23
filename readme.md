@@ -12,6 +12,7 @@
 ### 分支命令 git branch
 
 - `-v`
+- `-vv` 所有版本信息
 
 ### 检出命令 git checkout
 
