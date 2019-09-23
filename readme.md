@@ -11,3 +11,7 @@
 
 ### 分支命令 git branch
 
+- `-v`
+
+### 检出命令 git checkout
+
