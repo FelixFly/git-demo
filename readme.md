@@ -5,3 +5,7 @@
 ### 配置命令
 
 > git config
+
+- `--system`
+- `--global`
+- `--local`
