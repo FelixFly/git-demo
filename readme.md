@@ -8,3 +8,5 @@
 - `--global`
 - `--local`
 > --list -l 显示列表信息
+
+### 分支命令 git branch
