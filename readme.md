@@ -2,6 +2,8 @@
 
 ## 基础命令
 
-### 配置命令
+### 配置命令 git config
 
-> git config
+* `--system`
+* `--global`
+* `--local`
