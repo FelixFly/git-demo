@@ -17,4 +17,4 @@
 ### 检出命令 git checkout
 
 * [branchName] 切换分支
-
+* `-b` 创建分支
