@@ -16,3 +16,5 @@
 
 ### 检出命令 git checkout
 
+* [branchName] 切换分支
+
