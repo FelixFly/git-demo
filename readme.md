@@ -22,3 +22,4 @@
 ### 日志命令 git log 
 
 * `--oneline` 显示一行
+* `--pretty` 格式化显示 
