@@ -18,3 +18,5 @@
 
 * [branchName] 切换分支
 * `-b` 创建分支
+
+### 日志命令 git log
